@@ -45,7 +45,7 @@ Applies global, class-specific and local SHAP analysis to examine how retained p
 
 ## Dataset
 
-The project uses the publicly available [Employee Performance Dataset](https://www.kaggle.com/datasets/ziya07/employee-performance-dataset) by Ziya (2025), available through Kaggle.
+The project uses the publicly available [Employee Performance and Productivity Data](https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data) dataset by mexwell, available through Kaggle.
 
 The dataset is synthetic and contains 100,000 employee observations and 20 variables. The target variable, `Performance_Score`, contains five performance categories.
 
